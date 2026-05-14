@@ -2,7 +2,6 @@
 
 ![](https://github.com/msizimkhize/Vegetable-Prices-2022-MySQL-PowerBI/blob/main/IMG/1140-colorfulrawveggies.jpg?raw=true)
 
----
 ## Abstract
 This is a project reporting the average of the retail prices of vegetables internationally. The data was taken from a dataset presenting the multifacetedness of vegetable pricing. Within the scope of this report, the criterion for differentiating the vegetable retail prices were the following food retail states: canned, fresh and frozen.
 
