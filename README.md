@@ -1,4 +1,4 @@
-# Average Global Vegetable Costs, Defined in the South African Rand (ZAR)
+# Global Vegetable Price Trends: A Comparative Analysis (ZAR)
 
 ![](https://github.com/msizimkhize/Vegetable-Prices-2022-MySQL-PowerBI/blob/main/IMG/1140-colorfulrawveggies.jpg?raw=true)
 
