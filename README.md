@@ -13,9 +13,10 @@ The data on vegetable pricing was prepared:
 - https://www.kaggle.com/code/devraai/fruit-vegetable-prices-2022-analysis/input?select=Vegetable+Prices+2022.csv
 
 The projects was set about six subsidiary aims, which it sought to address, using the honed dataset. PowerBI was finally used to enable us to draw meaningful insights.
-***
 
-#### I) The loaded data is preprocessed and processed via MySQL using the prompts below
+***
+## Analysis
+#### The loaded data is preprocessed and processed via MySQL using the prompts below
 
 The table is renamed for use convenience.
 
@@ -62,7 +63,7 @@ DESCRIBE vegetable_prices_2022;
 ALTER TABLE vegetable_prices_2022 DROP COLUMN CupEquivalentPrice;
 
 ```
-### II) Using MySQL, the six aims of the project are investigated. The results are captured as six datasets to be accepted by PowerBI.
+### Using MySQL, the six aims of the project are investigated. The results are captured as six datasets to be accepted by PowerBI.
 
 The six major aims of the project are now addressed, by way of SQL prompts, which will yield tailored findings for the report.
 
@@ -112,7 +113,7 @@ ORDER BY RetailPrice ASC;
 ```
 
 ***
-### III) The six datasets which resulted from the focal questions were fed into PowerBI, and the following visualisations were acquired
+### The six datasets which resulted from the focal questions were fed into PowerBI, and the following visualisations were acquired
 
 #### Table on the range of retail prices of fresh vegetables listed in increasing order.
 |Vegetable|Retail Price|
