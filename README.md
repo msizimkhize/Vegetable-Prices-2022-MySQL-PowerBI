@@ -4,15 +4,15 @@
 
 <!--***-->
 ## Abstract
-This is a project reporting the average of the retail prices of vegetables internationally. The data was taken from a dataset presenting the multifacetedness of vegetable pricing. Within the scope of this report, the criterion for differentiating the vegetable retail prices were the following food retail states: canned, fresh and frozen.
+This is a project reporting the mean of the retail prices of vegetables internationally. The data was taken from a dataset presenting the multifacetedness of vegetable pricing. Within the scope of this report, the criterion for differentiating the vegetable retail prices were the following food retail states: canned, fresh and frozen.
 
-The aims of the report are to identify the most costly foods, and extrapolate the long-term impact this may have globally, so far as the foods remain a necessity. The identification of the preservation states for the vegetables would further inform how severe the disparity of food provisions of nations which afford and nations cannot afford fresh foods.
+The aims of the report are to identify the most costly foods, and extrapolate the long-term impact this may have globally, so far as the foods remain a necessity. The identification of the preservation states for the vegetables would further inform how severe the disparity of food provisions of nations which afford and nations which cannot afford fresh foods.
 
 The data on vegetable pricing was prepared:
 - Zip folder containing dataset
 - https://www.kaggle.com/code/devraai/fruit-vegetable-prices-2022-analysis/input?select=Vegetable+Prices+2022.csv
 
-The projects was set about six subsidiary aims, which it sought to address, using the honed dataset. PowerBI was finally used to enable us to draw meaningful insights.
+The project was set about six subsidiary aims, which it sought to address, using the honed dataset. PowerBI was finally used to enable us to draw meaningful insights.
 
 ***
 ## Analysis
